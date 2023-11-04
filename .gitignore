@@ -129,9 +129,5 @@ dmypy.json
 .pyre/
 
 .DS_Store
-penguins/*.sh
-penguins/*.csv
-penguins/*.py
-penguins/code/
-penguins/datasets/*
-mnist/dataset/
+program/code/
+_proc/
